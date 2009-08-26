@@ -12,9 +12,7 @@
 /*
 Plugin Name: Mobile Device Detect
 Plugin URI: http://straightvisions.com/mobile-device-detect-for-wordpress.html
-Description: <p>This Wordpress plugin integrates the mobile device detect function from <a href="http://detectmobilebrowsers.mobi/">detectmobilebrowsers.mobi</a> to wordpress.</p>
-<p>It allows to redirect visitors to a custom target URL. Mobile Device Detect for Wordpress is licensed to GNU General Public License v3. Please note that you also have to download the mobile device detect code from Andy Moore to get this Wordpress plugin work. It has it's own license, you have to confirm it, too.</p>
-<p>More Informations, Installation Guide and Download are available on the plugin homepage of <a href="http://straightvisions.com/mobile-device-detect-for-wordpress.html">Mobile Device Detect for Wordpress</a>.</p>
+Description: This Wordpress plugin integrates the mobile device detect function from <a href="http://detectmobilebrowsers.mobi/">detectmobilebrowsers.mobi</a> to wordpress.<br><br>It allows to redirect visitors to a custom target URL. Mobile Device Detect for Wordpress is licensed to GNU General Public License v3. Please note that you also have to download the mobile device detect code from Andy Moore to get this Wordpress plugin work. It has it's own license, you have to confirm it, too.<br><br>More Informations, Installation Guide and Download are available on the plugin homepage of <a href="http://straightvisions.com/mobile-device-detect-for-wordpress.html">Mobile Device Detect for Wordpress</a>.
 Version: 1.0
 Author: Matthias Reuter
 Author URI: http://straightvisions.com
