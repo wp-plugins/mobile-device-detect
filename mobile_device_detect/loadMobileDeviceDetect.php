@@ -3,11 +3,10 @@
  * @desc			This file loads mobile device detect as plugin to Wordpress.
  * @copyright		2009 Matthias Reuter
  * @package			Wordpress
- * @author			Matthias Reuter ($LastChangedBy: matthias $)
+ * @author			Matthias Reuter
  * @license			http://www.gnu.org/licenses/gpl-3.0.html GNU General Public License
- * @version			$LastChangedDate: 2009-08-26 01:50:41 +0000 (Mi, 26 Aug 2009) $
- * @since			1.0
- * @web				http://straightvisions.com
+ * @version			1.0
+ * @web				http://straightvisions.com/mobile-device-detect-for-wordpress.html
  */
 /*
 Plugin Name: Mobile Device Detect
